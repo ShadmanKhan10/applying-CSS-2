@@ -1,0 +1,43 @@
+.profile-container {
+  /* border: 2px solid blue; */
+  width: 25vw;
+  height: 38vw;
+  position: absolute;
+  top: 30vw;
+  left: 37vw;
+}
+.profile {
+  width: 25vw;
+  height: 38vw;
+}
+.btn-container {
+  /* border: 2px solid green; */
+  position: absolute;
+  top: 72vw;
+  left: 42.4vw;
+  height: 10vw;
+  width: 17vw;
+}
+.btn {
+  height: 6vw;
+  width: 15vw;
+  border-radius: 1vw;
+  border: none;
+  font-size: 2vw;
+  font-weight: bold;
+  background-color: rgb(235, 225, 225);
+}
+
+.heading-container {
+  /* border: 2px solid black; */
+  position: absolute;
+  top: 20vw;
+  left: 34.4vw;
+  height: 5.9vw;
+  width: 31vw;
+}
+.heading {
+  height: 5.9vw;
+  width: 30.5vw;
+  vertical-align: middle;
+}
